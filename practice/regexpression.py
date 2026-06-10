@@ -1,7 +1,7 @@
 import re
 
 text = "satya will get his new job soon"
-pattern = "python"
+pattern = "satya"
 
 search = re.search(pattern, text)
 if search:
